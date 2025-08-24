@@ -3,9 +3,13 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Rian Chaves Pimenta
+- Matricula: 898910
 
 ## Print da tela da página criada (Curriculum Vitae)
 
+![Print da aplicação](images/print.png)
+
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+
+![Print da Network](images/print2.png)

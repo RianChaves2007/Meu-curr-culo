@@ -1,0 +1,81 @@
+/* Estilos geral da página, como fonte, cor de funco, margem e cor das letras */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000448;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+/* edição do elemento class=container, com edições de largura, cor e radiação da borda */
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+/* Cabeçalho */
+.header {
+    display: flex;
+    align-items: center;
+    background: #6fbaff;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.foto {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.info h2 {
+    margin: 4px 0 10px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.contato {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contato li {
+    margin: 3px 0;
+}
+
+/* Seções */
+section {
+    margin-bottom: 20px;
+}
+
+section h3 {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 8px;
+    border-bottom: 2px solid #f0a1b2;
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.habilidades {
+    list-style: none;
+    padding: 0;
+}
+
+.habilidades li {
+    margin: 5px 0;
+}
